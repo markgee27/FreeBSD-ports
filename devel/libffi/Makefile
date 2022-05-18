@@ -1,8 +1,8 @@
 # Created by: Horance Chou <horance@freedom.ie.cycu.edu.tw>
 
 PORTNAME=	libffi
-PORTVERSION=	3.3
-PORTREVISION=	1
+PORTVERSION=	3.4
+PORTREVISION=	2
 CATEGORIES=	devel
 MASTER_SITES=	SOURCEWARE/${PORTNAME}
 
